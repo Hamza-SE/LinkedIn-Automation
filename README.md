@@ -14,3 +14,6 @@ Technologies used:
 Java.
 TestNG.
 Selenium.
+Maven.
+HTML Reports.
+Extent Spark Reports.
