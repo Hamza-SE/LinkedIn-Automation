@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="TestSuit" thread-count="2" parallel="mehods">
+    <test name="LinkedIn Login Page Automation Testing">
+        <classes>
+            <class name="com.live.linkedin.loginPageTesting.LoginPageTest"/>
+        </classes>
+    </test>
+
+</suite>
